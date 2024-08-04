@@ -1,7 +1,7 @@
 <?php
 
 class Connection {
-    private $host = "localhost:3308";
+    private $host = "localhost:3306";
     private $db = "portfolio";
     private $user = "root";
     private $pass = "";
