@@ -4,7 +4,7 @@ class Connection {
     private $host = "localhost:3306";
     private $db = "portfolio";
     private $user = "root";
-    private $pass = "";
+    private $pass = "admin";
     private $chrs = "utf8mb4";
     private $attr;
     private $opts = [
